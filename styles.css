@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+}
+div.search_toggle_btn{
+    float: right;
+    padding: 10px;
+    display: inline;
+    font-size: 1.3em;
+}
+div.search_toggle_btn > div {
+    display: inline;
+    padding: 10px;
+}
+div.search_toggle_btn > div > a {
+    color: black;
+}
